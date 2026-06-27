@@ -5,7 +5,7 @@ import { UI } from './components/UI';
 export default function App() {
   const [energy, setEnergy] = useState(0);
   const [isNight, setIsNight] = useState(true);
-  
+
   const [sensors, setSensors] = useState<SensorData[]>([]);
   const [selectedSensor, setSelectedSensor] = useState<number | null>(null);
 
@@ -26,18 +26,18 @@ export default function App() {
 
   return (
     <main className="relative w-full h-screen overflow-hidden bg-[#1E293B]">
-      <Simulation 
-        isNight={isNight} 
-        onEnergyGenerated={handleEnergyGenerated} 
+      <Simulation
+        isNight={isNight}
+        onEnergyGenerated={handleEnergyGenerated}
         sensors={sensors}
         selectedSensor={selectedSensor}
         onSelectSensor={setSelectedSensor}
       />
-      <UI 
-        energy={energy} 
-        co2={co2Offset} 
-        isNight={isNight} 
-        toggleNight={() => setIsNight(!isNight)} 
+      <UI
+        energy={energy}
+        co2={co2Offset}
+        isNight={isNight}
+        toggleNight={() => setIsNight(!isNight)}
         selectedSensorData={selectedSensorData}
         onCloseSensor={() => setSelectedSensor(null)}
       />
