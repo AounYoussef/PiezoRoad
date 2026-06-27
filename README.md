@@ -1,19 +1,31 @@
 <div align="center">
 
-<img src="img/logo.png" alt="PiezoRoad Logo" width="120" />
+<img src="img/logo.png" alt="PiezoRoad Logo" width="180" />
 
-# ⚡ PiezoRoad
+<h1>⚡ PiezoRoad</h1>
 
-### *Turning Every Journey Into Clean Energy*
+<h3><em>Turning Every Journey Into Clean Energy</em></h3>
 
-**A real-time 3D simulation of piezoelectric road energy harvesting — visualizing the future of sustainable urban infrastructure.**
+<p><strong>A real-time 3D simulation of piezoelectric road energy harvesting —<br/>visualizing the future of sustainable urban infrastructure.</strong></p>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-PiezoRoad-2563EB?style=for-the-badge)](https://AounYoussef.github.io/PiezoRoad/)
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2563EB?style=for-the-badge&logoColor=white)](https://AounYoussef.github.io/PiezoRoad/)
 [![GitHub](https://img.shields.io/badge/GitHub-AounYoussef%2FPiezoRoad-181717?style=for-the-badge&logo=github)](https://github.com/AounYoussef/PiezoRoad)
-[![Deploy](https://img.shields.io/github/actions/workflow/status/AounYoussef/PiezoRoad/deploy.yml?branch=main&label=Deploy&style=for-the-badge)](https://github.com/AounYoussef/PiezoRoad/actions)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
-[![Three.js](https://img.shields.io/badge/Three.js-r183-black?style=for-the-badge&logo=threedotjs)](https://threejs.org)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
+[![Deploy Status](https://img.shields.io/github/actions/workflow/status/AounYoussef/PiezoRoad/deploy.yml?branch=main&label=CI%2FCD&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/AounYoussef/PiezoRoad/actions)
+
+<br/>
+
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://react.dev)
+[![Three.js](https://img.shields.io/badge/Three.js-r183-black?style=flat-square&logo=threedotjs)](https://threejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Tailwind](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
+
+<br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&section=header&width=600)
 
 </div>
 
