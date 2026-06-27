@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="img/LOGO.png" alt="PiezoRoad Logo" width="220">
+  <img src="img/logo.png
+" alt="PiezoRoad Logo" width="220">
 </p>
 
 <h1 align="center">🚗⚡ PiezoRoad</h1>
