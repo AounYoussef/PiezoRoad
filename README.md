@@ -1,10 +1,9 @@
 <div align="center">
 
-
-<img src==img/logo.png alt="PiezoRoad Logo" width="180" />
+<img src="img/logo.png" alt="PiezoRoad Logo" width="180" />
 
 <h1>⚡ PiezoRoad</h1>
- 
+
 <h3><em>Turning Every Journey Into Clean Energy</em></h3>
 
 <p><strong>A real-time 3D simulation of piezoelectric road energy harvesting —<br/>visualizing the future of sustainable urban infrastructure.</strong></p>
