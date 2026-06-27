@@ -1,0 +1,5 @@
+{
+  "name": "RoadPower Live",
+  "description": "A live 3D simulation of smart energy-generating roads, visualizing real-time electricity production and CO2 offset from vehicle traffic.",
+  "requestFramePermissions": []
+}
