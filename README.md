@@ -6,7 +6,7 @@
         <img
           src="img/FINAL.png"
           alt="PiezoRoad Logo"
-          style="width:500px; display:block;"
+          style="width:1000px; display:block;"
         />
       </td>
     <td valign="middle" align="left" style="padding-left: 24px;">
