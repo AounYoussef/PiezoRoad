@@ -2,11 +2,11 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-      <td valign="middle">
+      <td width="160" style="overflow: visible;">
         <img
           src="img/FINAL.png"
           alt="PiezoRoad Logo"
-          style="width: 300px; max-width: none;"
+          style="width:500px; display:block;"
         />
       </td>
     <td valign="middle" align="left" style="padding-left: 24px;">
