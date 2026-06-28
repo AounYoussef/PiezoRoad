@@ -2,9 +2,9 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="middle" width="160">
-      <img src="img/FINAL.png" alt="PiezoRoad Logo" width="450" />
-    </td>
+      <td valign="middle">
+        <img src="img/FINAL.png" alt="PiezoRoad Logo" width="300" />
+      </td>
     <td valign="middle" align="left" style="padding-left: 24px;">
       <h1>⚡ PiezoRoad</h1>
       <h3><em>Turning Every Journey Into Clean Energy</em></h3>
