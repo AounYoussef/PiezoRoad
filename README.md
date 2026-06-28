@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="img/logo.png" alt="PiezoRoad Logo" width="180" />
-
-<h1>⚡ PiezoRoad</h1>
-
-<h3><em>Turning Every Journey Into Clean Energy</em></h3>
-
-<p><strong>A real-time 3D simulation of piezoelectric road energy harvesting —<br/>visualizing the future of sustainable urban infrastructure.</strong></p>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle" width="160">
+      <img src="img/Final_Logo.png" alt="PiezoRoad Logo" width="150" />
+    </td>
+    <td valign="middle" align="left" style="padding-left: 24px;">
+      <h1>⚡ PiezoRoad</h1>
+      <h3><em>Turning Every Journey Into Clean Energy</em></h3>
+      <p><strong>A real-time 3D simulation of piezoelectric road energy harvesting —<br/>visualizing the future of sustainable urban infrastructure.</strong></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -155,7 +160,7 @@ PiezoRoad/
 │   ├── main.tsx              # React entry point
 │   └── index.css             # Global styles + glassmorphism utilities
 ├── img/
-│   └── logo.png              # Project logo
+│   └── logo_v2.png           # Project logo
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml        # GitHub Actions → GitHub Pages CI/CD pipeline
