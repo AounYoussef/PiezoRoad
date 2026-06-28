@@ -3,7 +3,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="middle" width="160">
-      <img src="img/finallogo.png" alt="PiezoRoad Logo" width="150" />
+      <img src="img/d5d0d620-698f-47d4-bd33-ffbadbef431b.png" alt="PiezoRoad Logo" width="150" />
     </td>
     <td valign="middle" align="left" style="padding-left: 24px;">
       <h1>⚡ PiezoRoad</h1>
