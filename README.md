@@ -1,13 +1,9 @@
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-      <td width="160" style="overflow: visible;">
-        <img
-          src="img/FINAL.png"
-          alt="PiezoRoad Logo"
-          style="width:1000px; display:block;"
-        />
+        <tr>
+      <td valign="middle" width="250">
+        <img src="img/FINAL.png" alt="PiezoRoad Logo" width="500" />
       </td>
     <td valign="middle" align="left" style="padding-left: 24px;">
       <h1>⚡ PiezoRoad</h1>
